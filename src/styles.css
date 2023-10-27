@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Style for the 'them' class in App component */
+.them {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+/* Style for the name and emoji spans in Entry component */
+span.name {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+/* Style for the description span in Entry component */
+span.description {
+  color: #555;
+}
+
+/* Style for dd and dt elements in Entry component */
+dd,
+dt {
+  margin: 5px 0;
+}
+
+/* Optional: Add additional styles as needed */
